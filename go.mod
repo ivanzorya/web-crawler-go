@@ -1,0 +1,5 @@
+module github.com/ivanzorya/web-crawler-go
+
+go 1.24
+
+require golang.org/x/net v0.43.0

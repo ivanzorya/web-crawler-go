@@ -1,0 +1,10 @@
+# Binaries
+/crawler
+*.exe
+
+# Build/test artefacts
+*.test
+*.out
+
+# Dependency cache not needed in repo
+vendor/
